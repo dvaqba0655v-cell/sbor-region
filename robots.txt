@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Host: https://sbor-region.ru
+Sitemap: https://sbor-region.ru/sitemap.xml
